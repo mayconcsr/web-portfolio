@@ -38,3 +38,7 @@ Todos as informações presentes sobre mim no portfolio estão disponibilizadas 
 
 <h2>💎 Download CV 💎</h2>
 
+<h2>💎 Adicionais 💎</h2>
+Arquivo com tradução do <b>About me</b> (sobre mim)
+
+
