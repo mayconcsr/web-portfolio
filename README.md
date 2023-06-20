@@ -11,7 +11,7 @@ Se você precisar de mais informações ou tiver interesse em colaborar, fique �
 [![YouTube](https://github.com/mayconcsr/web-portfolio/assets/114117316/55da170d-bd52-4bfc-9500-4b8e6bc9fc81)](https://www.youtube.com/watch?v=qP0b8pcH6g8)<br><br><hr>
 
 
-<div align=center><h1>Conteúdo do portfolio - by session 💎</h1>
+<div align=center><h1>Conteúdo by session 💎</h1>
 Todas as seções presentes no projeto estão disponibilizadas devidamente abaixo. Essa abordagem visa garantir a transparência e a compreensão completa do escopo do projeto, permitindo uma análise criteriosa.<br>
 
 <h2>About :white_circle:</h2>
