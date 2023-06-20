@@ -42,6 +42,6 @@ Meu currículo está disponível para visualização e download. Presente no rep
 <a href="Maycon César (1).pdf" download>Clique aqui para acessar</a>
 
 <h2>Adicionais 💎</h2>
-Arquivo com tradução do <b>About me</b> (sobre mim)
+coming
 
 
