@@ -17,7 +17,7 @@ Todas as seções presentes no projeto estão disponibilizadas devidamente abaix
 <h2>About :white_circle:</h2>
 <img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/7d024fa2-43fc-4899-bc18-81453c0d3e05"><br><br>
 <div align=center><i>"My name is Maycon César de Paula Silva, and I'm 22 years old. I was born in Sorocaba, a city in the interior of São Paulo, Brazil. Currently, I live in a house with just my parents and myself. I have always been deeply interested in technology since I was young, starting with video games and later exploring computers. My first direct encounter with programming was in the college where I am studying today. Prior to that, I had some knowledge of software in general, such as Photoshop and related tools.
-Creativity has always been one of my strengths ever since I can remember. I have a natural talent for creating and developing everything. This is why, with my programming knowledge, I have chosen to specialize in Front-End development. The fusion of coding and creativity in bringing ideas to life is something I find truly incredible"</i></div><br><br>
+Creativity has always been one of my strengths ever since I can remember. I have a natural talent for creating and developing everything. This is why, with my programming knowledge, I have chosen to specialize in Front-End development. The fusion of coding and creativity in bringing ideas to life is something I find truly incredible"</i></div><br>
 
 <h2>Education & Experience :white_circle:</h2>
 <img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/29b5f836-26d8-4912-8f5c-ddfc1760979c"><br><br>
