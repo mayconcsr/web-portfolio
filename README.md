@@ -29,7 +29,8 @@ Creativity has always been one of my strengths ever since I can remember. I have
 <img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/e69365c6-a377-4a41-aa7a-555192f69f23"><br><br>
 
 <h2><b>Dark Mode Preview :black_circle:</b></h2>
-<img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/a7013f08-4210-4de6-be7a-39ed37c13c12)"><br><br></div><hr>
+<img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/a7013f08-4210-4de6-be7a-39ed37c13c12)"><br><br>
+O dark mode foi implementado de forma abrangente em todo o portfólio, sendo esta apenas uma pré-visualização da seção inicial. No <a href="https://www.youtube.com/watch?v=qP0b8pcH6g8">vídeo da apresentação</a> é apresentado por completo.</h3><hr></div>
 
 <h1>Adicionais</h1>
 
