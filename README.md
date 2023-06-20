@@ -36,7 +36,10 @@ Todos as informações presentes sobre mim no portfolio estão disponibilizadas 
 </ul>
 
 
-<h2>💎 Download CV 💎</h2>
+<h2>💎 Currículo 💎</h2>
+Meu currículo está disponível para visualização e download. Presente no repositório com identificador "Maycon César (1).pdf"
+
+<a href="Maycon César (1).pdf" download>Clique aqui para acessar</a>
 
 <h2>💎 Adicionais 💎</h2>
 Arquivo com tradução do <b>About me</b> (sobre mim)
