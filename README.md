@@ -4,7 +4,7 @@ Olá, meu nome é Maycon. Sou profissional em desenvolvimento web e design, apai
 
 Sinta-se à vontade para explorar e descobrir mais sobre mim e meu processo criativo. Estou entusiasmado para compartilhar minha paixão e meu compromisso com a excelência em constante evolução.
 
-Se você precisar de mais informações ou tiver interesse em colaborar, fique à vontade para entrar em contato. Agradeço sinceramente por visitar meu portfólio web!
+Se você precisar de mais informações ou tiver interesse em colaborar, fique à vontade para entrar em contato. Agradeço sinceramente por visitar meu portfolio web!
 
 
 
