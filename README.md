@@ -1,6 +1,6 @@
 <h1>Maycon - Web Portfolio :computer:</h1>
 
-Olá, meu nome é Maycon. Sou profissional em desenvolvimento web e design, apaixonado por criar experiências digitais cativantes. <b>Este projeto é o resultado do meu empenho em compartilhar meu trabalho sobre mim e conquistas até o momento.</b>
+Olá, meu nome é Maycon. Sou profissional em desenvolvimento web e design, apaixonado por criar experiências digitais. <b>Este projeto é o resultado do meu empenho em compartilhar meu trabalho sobre mim e conquistas até o momento.</b>
 
 Sinta-se à vontade para explorar e descobrir mais sobre mim e meu processo criativo. Estou entusiasmado para compartilhar minha paixão e meu compromisso com a excelência em constante evolução.
 
