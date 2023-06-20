@@ -8,7 +8,7 @@ Se você precisar de mais informações ou tiver interesse em colaborar, fique �
 
 <h3>Apresentação Funcional do Portfolio Web <a href="https://www.youtube.com/watch?v=qP0b8pcH6g8">(Vídeo)</a></h3> 
 
-[![YouTube](https://github.com/mayconcsr/web-portfolio/assets/114117316/55da170d-bd52-4bfc-9500-4b8e6bc9fc81)](https://www.youtube.com/watch?v=qP0b8pcH6g8)<br><br>
+[![YouTube](https://github.com/mayconcsr/web-portfolio/assets/114117316/55da170d-bd52-4bfc-9500-4b8e6bc9fc81)](https://www.youtube.com/watch?v=qP0b8pcH6g8)<br><br><hr>
 
 
 <div align=center><h1>Conteúdo do portfolio - by session 💎</h1>
@@ -29,14 +29,16 @@ Creativity has always been one of my strengths ever since I can remember. I have
 <img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/e69365c6-a377-4a41-aa7a-555192f69f23"><br><br>
 
 <h2><b>Dark Mode Preview :black_circle:</b></h2>
-<img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/a7013f08-4210-4de6-be7a-39ed37c13c12)"><br><br></div>
+<img src="https://github.com/mayconcsr/web-portfolio/assets/114117316/a7013f08-4210-4de6-be7a-39ed37c13c12)"><br><br></div><hr>
 
-<h1>Adicionais 💎</h1>
+<h1>Adicionais</h1>
 
 <h3>Links úteis</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/maycon-cesar-de-paula-silva-858a7a19b/">LinkedIn</li>
   <li><a href="https://www.figma.com/file/9u1qE9xV7gqSmoPE0qKOhu/Maycon---Projetos-Mar%2F2023?type=design&node-id=0-1&t=9wNO009oeUaBbACO-0">Figma</a> (Principais projetos)</li>
+  <li><a href="https://github.com/mayconcsr">GitHub Profile</li>
+   
 </ul>
 
     
@@ -52,8 +54,9 @@ Creativity has always been one of my strengths ever since I can remember. I have
   <li><a href="mailto:mayconcdps@gmail.com">mayconcdps@gmail.com :e-mail:</a></li>
 </ul>
 
-
 <h3>Currículo</h3>
-Meu currículo está disponível para visualização e download. Presente no repositório com identificador <a href="Maycon César (1).pdf" download>"Maycon César (1).pdf"</a>
+Meu currículo está disponível para visualização e download. Presente no repositório com identificador <a href="Maycon César (1).pdf" download>"Maycon César (1).pdf"</a><br><hr>
+
+<q><i>Não podemos resolver problemas usando o mesmo tipo de pensamento que usamos quando os criamos.</i></q> - Albert Einstein
 
 
